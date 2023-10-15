@@ -1,4 +1,4 @@
-- [:smiling_face_with_sunglasses: 首页](/README)
+- [:grinning_face: 首页](/README)
 - :ghost: 目录
    - 第1章：开发入门
    
